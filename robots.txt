@@ -1,0 +1,7 @@
+# Lakshya — robots.txt
+User-agent: *
+Allow: /
+
+# IMPORTANT: replace the domain below with your official domain
+# after connecting it (see README.md → "Connect your custom domain").
+Sitemap: https://www.REPLACE-WITH-YOUR-DOMAIN.com/sitemap.xml
