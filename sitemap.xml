@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: replace every "www.REPLACE-WITH-YOUR-DOMAIN.com" below with your
+     official domain before publishing (see README.md). -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.REPLACE-WITH-YOUR-DOMAIN.com/</loc><lastmod>2026-09-04</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.REPLACE-WITH-YOUR-DOMAIN.com/about.html</loc><lastmod>2026-09-04</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.REPLACE-WITH-YOUR-DOMAIN.com/exams.html</loc><lastmod>2026-09-04</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.REPLACE-WITH-YOUR-DOMAIN.com/pricing.html</loc><lastmod>2026-09-04</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.REPLACE-WITH-YOUR-DOMAIN.com/contact.html</loc><lastmod>2026-09-04</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.REPLACE-WITH-YOUR-DOMAIN.com/faq.html</loc><lastmod>2026-09-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.REPLACE-WITH-YOUR-DOMAIN.com/privacy-policy.html</loc><lastmod>2026-09-04</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://www.REPLACE-WITH-YOUR-DOMAIN.com/terms.html</loc><lastmod>2026-09-04</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://www.REPLACE-WITH-YOUR-DOMAIN.com/refund-policy.html</loc><lastmod>2026-09-04</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://www.REPLACE-WITH-YOUR-DOMAIN.com/shipping-policy.html</loc><lastmod>2026-09-04</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
+</urlset>
